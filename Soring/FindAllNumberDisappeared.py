@@ -1,5 +1,7 @@
 from typing import List
 
+# problem link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         # List containing ans
